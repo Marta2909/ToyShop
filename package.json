@@ -1,0 +1,7 @@
+{
+  "name": "ToyShop",
+  "private": true,
+  "dependencies": {
+    "react_ujs": "^2.4.4"
+  }
+}
